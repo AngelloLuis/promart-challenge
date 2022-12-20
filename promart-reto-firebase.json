@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "promart-reto",
+  "private_key_id": "5e927ac2aee1091f0f43ba8e8fbb918cabf07cb0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDB1ZqG9gy7xCNU\n8Ji3dO3+DFhJSAXE2C1g/ErP7OyEYNlX2oUEZmevzM5I2Nl7KwosiKOs6mrnyWoG\ns1nlxaycglbuAlCyZ17+xoJ77qYTo3VPk4JCK9BzNyQBPyrEenqeZKn3XZNTIKLS\nk1CH6N1M9bupO1MfqJjap1eua9QxCaAhgFpejO6MnoxqcJtRbYDnMyuUWMaTbuEJ\niduoiw6JKuagR9vVFUKsr8h1/9X9FwLekr+HN37UXkX/P2SRFKt0Z1+qVx+7zInN\n5bmcbPyIHMDWqIZYYTgWZiiIEqKKNjtISHEi57h4DdBWwqUUB0aDk0PS9YvKEPc4\nasVBoNRhAgMBAAECggEAAan+aL5zw0hmp7/lhbyrnuDXALENOKCE+jZMQ570dFn6\n/6+08OHarcYPts0ix9WJobJ+GjnMd2cxoXNYeBojdlgBnEs5i2CLDpugauU0eIpw\nk0FwTrZe1KBibx7OVI+7HgE9+s1LOp1W/IEOgc4wWSzqYqRrXSQWxNjHLkyHbrDT\nPk9vidnM53GYpBoYX+HmjjL7s8Am/4gS1nA16FBx8yhOF0oBJyPKL4Rbefw860by\nuoWeeqerxKuwCH+r7/x+XsaUUr7rEUM2yVYzIjlIOjevccaTQM4WpLPGLLGFvlis\nE6pQpGJXPrEhwe+wJuRtwkpbOjdoXyBL5vw/IFsZoQKBgQD3HyFYgt6e7+KnAoMu\nqaw49/wqNUH1oAWZv1R99GsVN+r2n1XE+fLZOzf7d0DhbmF56I/heqhmDyaaShgM\n9BgbcLAzYwj8mH9OeU+p1n+J+489O/mZ4VzXETJOjxSXi/VlCIEuyM44DZGCG1jx\nhcWt8gqIbKCHzMV9G8J7dPsqsQKBgQDIzF72Wj86vcdnRyxIjI6EzbJ4wxY/fdC9\nMF1dAoK0ZMGPKFFFB92AHGsezEGHoe/Unrf1+6fCVWs4u5nriIrgFmTT+O8C66mT\nlEs51uo6TG+jIaRGU7ZPtiAOxL9HvWVUXGEj47DnhIi6RBUzNM9gY4aQBuOfBMhr\n0k8rUvFQsQKBgF+l5uwxSyVNR/bIXCn1djleknVrw6nkVAacLYHK1p+R0xm9th7V\nd49pAlQMZkpaxNPAld/577AA8ToKr6Bj4ejNBwX8sP/DrpKbFaBw61Bm05wp2IQc\n3ChJ+aS6cIfvnf2K+yU2h8reRZGMMDLbShX3dugy0zd8pHu2AOJz9rshAoGBALIJ\nYvmTMxTmR/Mui/kXhxYBPAkPEJ7i8z2LsHxTSYig/W3tFYHbY22/xMrd2AxmbLtc\nr0ePBkOscREwZV0NB/WAZY383g783LJZfgmeoLdoJmPB5GHmv3MVzH7Lu73kFAAk\nmIy1yZi9Tm25CAMLBAQ2uozhTtkj6ICRTFjhhc1BAoGAP+y8c/4D2yzhBPUENLMW\nrODRTFBBlKSJS2faCThXVa8+EIVOyxS6sJqaSpzPpkcm+uds8HjoYvVMFdXl067e\nq3aYDJCU9OtgM6j+ElrU8YSLrNsVzxOw930CpPQM418YPWZuv0P3QAOuZfG8V5tY\nItFyUM8D6A5NbSUJXbZyI74=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-o9t3r@promart-reto.iam.gserviceaccount.com",
+  "client_id": "103591464574179851582",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-o9t3r%40promart-reto.iam.gserviceaccount.com"
+}
